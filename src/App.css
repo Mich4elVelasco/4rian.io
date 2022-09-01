@@ -1,0 +1,32 @@
+*{
+  background-color:aqua;
+}
+.calc{
+  width: 320px;
+  margin: 100px auto;
+}
+#answer{
+  background-color: #e3e3e3;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45;
+  text-align: right;
+  border: solid 3px black;
+}
+.button{
+  background-color: grey;
+  height: 80px;
+  width: 80px;
+  color: black;
+  font-size: 30px;
+  border: solid 1px black;
+  float: left;
+}
+.button1{
+  width: 160px;
+}
+.button:hover{
+  background-color: rgb(54, 49, 49);
+
+}
